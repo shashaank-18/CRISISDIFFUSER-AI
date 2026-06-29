@@ -1,0 +1,6 @@
+{
+  "name": "CrisisDiffuser AI",
+  "description": "An AI-powered proactive productivity companion that helps students, professionals, and entrepreneurs prioritize tasks, create automated micro-breakdowns, draft crisis recovery communications, and track goals to survive deadlines under extreme pressure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
